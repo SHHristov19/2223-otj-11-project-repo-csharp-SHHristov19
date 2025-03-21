@@ -1,6 +1,6 @@
  <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codingburgas/2223-otj-11-project-repo-csharp-SHHristov19/main/Project/Univers.PL/wwwroot/images/Logo1.svg?token=GHSAT0AAAAAACDHFOLDT344ITCD5GGNOE4YZDULO4Q" style="width:40%;"></p><br>
+  <img src="https://raw.githubusercontent.com/SHHristov19/2223-otj-11-project-repo-csharp-SHHristov19/refs/heads/main/Project/Univers.PL/wwwroot/images/Logo1.svg" style="width:40%;"></p><br>
 
 ## 📄 Table of contents
  
